@@ -34,9 +34,6 @@
 [submodule "Tweaks/YTABConfig"]
 	path = Tweaks/YTABConfig
 	url = https://github.com/PoomSmart/YTABConfig
-[submodule "Tweaks/YTUHD"]
-	path = Tweaks/YTUHD
-	url = https://github.com/Tonwalter888/YTUHD
 [submodule "Tweaks/YouGroupSettings"]
 	path = Tweaks/YouGroupSettings
 	url = https://github.com/PoomSmart/YouGroupSettings
@@ -65,3 +62,6 @@
 [submodule "Tweaks/YouSpeed"]
 	path = Tweaks/YouSpeed
 	url = https://github.com/PoomSmart/YouSpeed
+[submodule "Tweaks/YTUHD"]
+	path = Tweaks/YTUHD
+	url = https://github.com/Tonwalter888/YTUHD.git
